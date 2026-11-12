@@ -91,28 +91,28 @@
     {
       "id": "ai.texura.plugin-store",
       "name": "Texura插件商店",
-      "version": "1.5.2+20261112.110000",
+      "version": "1.5.3+20261112.120000",
       "description": "",
       "author": "",
       "packages": {
         "linux-arm64": {
-          "sha256": "70867659b956be77997b2ab8950d82154364e0503c437f8e4bdeff4ef02c59a6",
+          "sha256": "bd77bb6915ed2f32a5cbd66e4608f29d753e9f03cf9b278c88b0a44626178538",
           "path": "packages/linux-arm64/ai.texura.plugin-store.texuraplugin"
         },
         "linux-x64": {
-          "sha256": "2acff88054242ff2f486283d1d855b705929023f23d8dc5ffaee6869f3fb7014",
+          "sha256": "8ad1a98bb7894f8f201569299cd79644278894af10b15713c6192544b0233775",
           "path": "packages/linux-x64/ai.texura.plugin-store.texuraplugin"
         },
         "osx-arm64": {
-          "sha256": "691ea4c1fea682fff45fa0a2a70b726a2271127ce013c17371d24039a2d5a50c",
+          "sha256": "f8e703ecbe6dd65d99fec686ef7def462481e630218fc67ebdc654271d6a8088",
           "path": "packages/osx-arm64/ai.texura.plugin-store.texuraplugin"
         },
         "osx-x64": {
-          "sha256": "b2de7d85883a0c768fe02f865d573480256d77c784e0905d927837934345ef41",
+          "sha256": "b93e9f4397dd0a2d3172213b3dfcecc572a5b50ae7f684db24b81dd62223e4db",
           "path": "packages/osx-x64/ai.texura.plugin-store.texuraplugin"
         },
         "win-x64": {
-          "sha256": "8d02875dedcb5ec787a8283d352e89a70d2f620dfd1a581269a82c52762e0619",
+          "sha256": "cca621e962834df6e49253929b390dbbcc5bee33243c61a97d17bf6e4d158185",
           "path": "packages/win-x64/ai.texura.plugin-store.texuraplugin"
         }
       }
