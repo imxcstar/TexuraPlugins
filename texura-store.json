@@ -1,0 +1,270 @@
+{
+  "schemaVersion": 1,
+  "plugins": [
+    {
+      "id": "ai.texura.agent-telemetry",
+      "name": "Agent 执行遥测",
+      "version": "1.4.4+20261111.113800",
+      "description": "",
+      "author": "",
+      "packages": {
+        "linux-arm64": {
+          "sha256": "07777945cb14535cd22e9d0c38460f438cbabdb00961f65b53e0571828c0e8d1",
+          "path": "packages/linux-arm64/ai.texura.agent-telemetry.texuraplugin"
+        },
+        "linux-x64": {
+          "sha256": "6d45aedb7277cae044f5575a279a934c2f7e5f858c61c12dea14a69264761a7a",
+          "path": "packages/linux-x64/ai.texura.agent-telemetry.texuraplugin"
+        },
+        "osx-arm64": {
+          "sha256": "35e832a877b8adebbe6dc19ab5d5a6777f606c86e63476ffc1f3d3af904612ae",
+          "path": "packages/osx-arm64/ai.texura.agent-telemetry.texuraplugin"
+        },
+        "osx-x64": {
+          "sha256": "32e1cc94d30e92d28dda4e87b931de434b3cae709d1c93c7fea484ad3b615615",
+          "path": "packages/osx-x64/ai.texura.agent-telemetry.texuraplugin"
+        },
+        "win-x64": {
+          "sha256": "55e2a28098b9facae40d612e4f19ab07b1d0d715eb53c5788dbe9b34d95d2ae4",
+          "path": "packages/win-x64/ai.texura.agent-telemetry.texuraplugin"
+        }
+      }
+    },
+    {
+      "id": "ai.texura.agents-md",
+      "name": "AGENTS.md 指令",
+      "version": "1.0.2+20261111.113800",
+      "description": "",
+      "author": "",
+      "packages": {
+        "linux-arm64": {
+          "sha256": "2c00ab7c5e708263bb8fa0d62db12b7754fab760b40bcd21161c3b0cba496f39",
+          "path": "packages/linux-arm64/ai.texura.agents-md.texuraplugin"
+        },
+        "linux-x64": {
+          "sha256": "9b2ae3f7efb42a982b8fe1464eeb6fef25a9dc20fb70328f8232eabfeca673b5",
+          "path": "packages/linux-x64/ai.texura.agents-md.texuraplugin"
+        },
+        "osx-arm64": {
+          "sha256": "88043c9d5b3722f8bc0d81c7d806937d4a22c04c15c0c55541ad97192161ff9e",
+          "path": "packages/osx-arm64/ai.texura.agents-md.texuraplugin"
+        },
+        "osx-x64": {
+          "sha256": "c5bd1ece6671bb0f671a2cea9b43df42e6dc9e4a2353b4804e8c5cd34bbb1aee",
+          "path": "packages/osx-x64/ai.texura.agents-md.texuraplugin"
+        },
+        "win-x64": {
+          "sha256": "5420c26ff319b9993216e7745ac1fc9d54caa977ccee01f23edb165ba5d18518",
+          "path": "packages/win-x64/ai.texura.agents-md.texuraplugin"
+        }
+      }
+    },
+    {
+      "id": "ai.texura.plugin-lab",
+      "name": "插件模拟环境",
+      "version": "0.1.1+20261111.113800",
+      "description": "",
+      "author": "",
+      "packages": {
+        "linux-arm64": {
+          "sha256": "1c6f4c1732f1832808efd919ea5871c1f2f23518524f99ca062173c9b8f61b86",
+          "path": "packages/linux-arm64/ai.texura.plugin-lab.texuraplugin"
+        },
+        "linux-x64": {
+          "sha256": "e895b48b341b83c5d6e0d4098899b6b4cec45a5c030f0194a6510acf41a94b35",
+          "path": "packages/linux-x64/ai.texura.plugin-lab.texuraplugin"
+        },
+        "osx-arm64": {
+          "sha256": "5bcb07ffb73a61e6de3852e64d6eb27bc91cb502f6e0754afde75f572377489b",
+          "path": "packages/osx-arm64/ai.texura.plugin-lab.texuraplugin"
+        },
+        "osx-x64": {
+          "sha256": "0019c590619cb43a9922fbcccb7d9ab2b5a18b941be87ac14123589237e5876c",
+          "path": "packages/osx-x64/ai.texura.plugin-lab.texuraplugin"
+        },
+        "win-x64": {
+          "sha256": "338de1e7c90bc7005fca27d3a43d43b27ac92df6c4cb1fbe204c4a19afba048c",
+          "path": "packages/win-x64/ai.texura.plugin-lab.texuraplugin"
+        }
+      }
+    },
+    {
+      "id": "ai.texura.plugin-store",
+      "name": "Texura插件商店",
+      "version": "1.5.0+20261112.083000",
+      "description": "",
+      "author": "",
+      "packages": {
+        "linux-arm64": {
+          "sha256": "e78d3dd305f5ca28394298a14aaa93998c55eba15fa10d7bdf3bdde513af13da",
+          "path": "packages/linux-arm64/ai.texura.plugin-store.texuraplugin"
+        },
+        "linux-x64": {
+          "sha256": "a3d384e5f7f28ae6f42d678f557c0628d0961d947842912aa83e650b6b93829e",
+          "path": "packages/linux-x64/ai.texura.plugin-store.texuraplugin"
+        },
+        "osx-arm64": {
+          "sha256": "0d0d64d26828bb2493bf11df2f9e3b049a5d52cb96eab40c9fdadc778fd376c3",
+          "path": "packages/osx-arm64/ai.texura.plugin-store.texuraplugin"
+        },
+        "osx-x64": {
+          "sha256": "85c561d8c5d5427b46d00555f041480d6fd9b44d976b92f9d69b59d189f52500",
+          "path": "packages/osx-x64/ai.texura.plugin-store.texuraplugin"
+        },
+        "win-x64": {
+          "sha256": "99f7049410da56b4afe4ccc1664c05133f232034557dd56a183f3fed749a4ae1",
+          "path": "packages/win-x64/ai.texura.plugin-store.texuraplugin"
+        }
+      }
+    },
+    {
+      "id": "ai.texura.rdp",
+      "name": "RDP Remote Desktop",
+      "version": "1.1.1+20261111.113800",
+      "description": "",
+      "author": "",
+      "packages": {
+        "linux-arm64": {
+          "sha256": "c33783f891bd06b6ce3a524a4b6c9b7fee9b80dea5de37a5131e5060934da93e",
+          "path": "packages/linux-arm64/ai.texura.rdp.texuraplugin"
+        },
+        "linux-x64": {
+          "sha256": "f34c41bd3533982e68e03b8e0841427e09b2c0112310a9bf191a35f3e7b477c8",
+          "path": "packages/linux-x64/ai.texura.rdp.texuraplugin"
+        },
+        "osx-arm64": {
+          "sha256": "ffa877ea12ad848032551c3beb0041a68b7ce0292c572517814eda2f5660059d",
+          "path": "packages/osx-arm64/ai.texura.rdp.texuraplugin"
+        },
+        "osx-x64": {
+          "sha256": "ce369c7ccdc4552d901f36d3c03ff7a055a84ff1029b7b97b49a149e1f1eeedc",
+          "path": "packages/osx-x64/ai.texura.rdp.texuraplugin"
+        },
+        "win-x64": {
+          "sha256": "859cd00b72b8e6bb0f58354ea0063ecd757a5cdef202503f6273432a15d515a6",
+          "path": "packages/win-x64/ai.texura.rdp.texuraplugin"
+        }
+      }
+    },
+    {
+      "id": "ai.texura.remote",
+      "name": "Remote Workspaces",
+      "version": "0.5.1+20261111.113800",
+      "description": "",
+      "author": "",
+      "packages": {
+        "linux-arm64": {
+          "sha256": "2bb99050bad6f91b3a883acbf98c1804c113d169125896f569daa8e365a8507d",
+          "path": "packages/linux-arm64/ai.texura.remote.texuraplugin"
+        },
+        "linux-x64": {
+          "sha256": "405ac43497465b67a1a87f62df5df1b537b87193903f7068307ffb844bb1284f",
+          "path": "packages/linux-x64/ai.texura.remote.texuraplugin"
+        },
+        "osx-arm64": {
+          "sha256": "9bb152345d47373714cb06658f8e9fff09b7c53cdb1db95604e2010d1e79500b",
+          "path": "packages/osx-arm64/ai.texura.remote.texuraplugin"
+        },
+        "osx-x64": {
+          "sha256": "40a43da9116525fa9e59c30caded0e999b7465f9868551062782074561a64617",
+          "path": "packages/osx-x64/ai.texura.remote.texuraplugin"
+        },
+        "win-x64": {
+          "sha256": "039dbcea6f3ac8b68d745217165ed3958c667e9bf5991a62ac2a29dbccd94b74",
+          "path": "packages/win-x64/ai.texura.remote.texuraplugin"
+        }
+      }
+    },
+    {
+      "id": "ai.texura.secure-connect",
+      "name": "安全远程连接",
+      "version": "0.2.8+20261111.113800",
+      "description": "",
+      "author": "",
+      "packages": {
+        "linux-arm64": {
+          "sha256": "a5b013bef989ad910453e64b1d871c0297ce07538b8ada4d6cf964efd895f403",
+          "path": "packages/linux-arm64/ai.texura.secure-connect.texuraplugin"
+        },
+        "linux-x64": {
+          "sha256": "8f3eb78e0e5d794b83ae4cdfab2fdaaa3c180f115f538f5d44021c5ef877a626",
+          "path": "packages/linux-x64/ai.texura.secure-connect.texuraplugin"
+        },
+        "osx-arm64": {
+          "sha256": "7bcf1a3a91ef59f41d84d1efdf7376c8cf64c1cf8b77df72b5b9135af1d6ea88",
+          "path": "packages/osx-arm64/ai.texura.secure-connect.texuraplugin"
+        },
+        "osx-x64": {
+          "sha256": "3391811b96812c5197a844c475f2db4a803110178b799b06cd225584356ae79b",
+          "path": "packages/osx-x64/ai.texura.secure-connect.texuraplugin"
+        },
+        "win-x64": {
+          "sha256": "9aada7726c37d18dc66943ea35de000bc3dc710f83c04071c926a665e5f8967e",
+          "path": "packages/win-x64/ai.texura.secure-connect.texuraplugin"
+        }
+      }
+    },
+    {
+      "id": "ai.texura.skills",
+      "name": "Agent Skills",
+      "version": "1.2.2+20261111.113800",
+      "description": "",
+      "author": "",
+      "packages": {
+        "linux-arm64": {
+          "sha256": "214495dfb8c37df9fcac6d5e6165aebf237b15f0934d3cc8dce4e673b5977c88",
+          "path": "packages/linux-arm64/ai.texura.skills.texuraplugin"
+        },
+        "linux-x64": {
+          "sha256": "a02fab5bdfc532acd8faa63df4ab3575677fc5d05ae1f2df16624512a4021405",
+          "path": "packages/linux-x64/ai.texura.skills.texuraplugin"
+        },
+        "osx-arm64": {
+          "sha256": "04892342d71a7e0ed1376b2f28c03b5b493a67fac72b4a113fe60e7bee93f2aa",
+          "path": "packages/osx-arm64/ai.texura.skills.texuraplugin"
+        },
+        "osx-x64": {
+          "sha256": "d3dfce0a954fb455afd27b735621ea1818f32a3d8cede5bf38be257203dcfa7b",
+          "path": "packages/osx-x64/ai.texura.skills.texuraplugin"
+        },
+        "win-x64": {
+          "sha256": "b0e032a41f2caf2120b4b087014aac37bbec18bf3d7e1d3b907f3041e96a9b85",
+          "path": "packages/win-x64/ai.texura.skills.texuraplugin"
+        }
+      }
+    },
+    {
+      "id": "texura.mcp",
+      "name": "MCP",
+      "version": "1.1.8",
+      "description": "",
+      "author": "",
+      "packages": {
+        "linux-arm64": {
+          "sha256": "c19664a8f2b8df7137936fa73a2424d70f5b8de5ac0b62536b216d5b18e0b6c1",
+          "path": "packages/linux-arm64/texura.mcp.texuraplugin"
+        },
+        "linux-x64": {
+          "sha256": "0f08bfea68eaa8421c3aab8ae5c536d5388c34e126d4782549b3a08034779d01",
+          "path": "packages/linux-x64/texura.mcp.texuraplugin"
+        },
+        "osx-arm64": {
+          "sha256": "620f3151ec3935d0b95100516411515bd3399faff9c48b0665302463676744fe",
+          "path": "packages/osx-arm64/texura.mcp.texuraplugin"
+        },
+        "osx-x64": {
+          "sha256": "f4b77b81b35c5625ec8c46d8502868983e959c8208111daf01b51f908fc7ea33",
+          "path": "packages/osx-x64/texura.mcp.texuraplugin"
+        },
+        "win-arm64": {
+          "sha256": "b69effa7a8641e6a2c0320fe3b3be206ee82d131d88f05470927c61b426de5a2",
+          "path": "packages/win-arm64/texura.mcp.texuraplugin"
+        },
+        "win-x64": {
+          "sha256": "8a0d313abfdea670d36ac2e24acfaad644ffd6813fa1a892bb529c23ef90be50",
+          "path": "packages/win-x64/texura.mcp.texuraplugin"
+        }
+      }
+    }
+  ]
+}
